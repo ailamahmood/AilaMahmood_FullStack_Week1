@@ -5,7 +5,9 @@ CLOTHING FRONTEND
 This is a static frontend project for a clothing-related website. It is structured into three core pages — Home, About, and Contact — each designed for modularity and ease of customization.
 
 📁 PROJECT STRUCTURE
+
 Clothing-Frontend/
+
     Home/
         Home.html
         Home.css
