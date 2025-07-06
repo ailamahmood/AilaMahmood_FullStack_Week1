@@ -6,25 +6,25 @@ This is a static frontend project for a clothing-related website. It is structur
 
 📁 PROJECT STRUCTURE
 
-Clothing-Frontend/
+/Clothing-Frontend
 
-    Home/
+    /Home
         Home.html
         Home.css
         Home.js
-        images/
+        /images
 
-    About/
+    /About
         About.html
         About.css
         About.js
-        images/
+        /images
 
-    Contact/
+    /Contact
         Contact.html
         Contact.css
         Contact.js
-        images/
+        /images
 
 
 🚀 FEATURES
